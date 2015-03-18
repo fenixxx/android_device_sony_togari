@@ -1,1 +1,1 @@
-add_lunch_combo cm_togari-eng
+add_lunch_combo candy5_togari-eng
